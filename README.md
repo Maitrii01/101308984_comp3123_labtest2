@@ -1,3 +1,17 @@
+# Screenshots
+
+Toronto screenshot:
+
+![toronto](./screenshot/ss1.png)
+
+Ahmedabad screenshot: 
+
+![ahmedabad](./screenshot/ss2.png)
+
+Postman screenshot:
+
+![postman](./screenshot/ss3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
